@@ -8,12 +8,10 @@ public:
             if (nums[i]>=max){
                 second_max=max;
                 max=nums[i];
-               
             }
           else if(nums[i]>second_max){
             second_max=nums[i];
             }
-           
             }
               int product=(max-1)*(second_max-1);
             return product;
