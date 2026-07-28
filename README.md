@@ -8,6 +8,7 @@ doing dsa practice
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -22,6 +23,7 @@ doing dsa practice
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Math
@@ -41,6 +43,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
