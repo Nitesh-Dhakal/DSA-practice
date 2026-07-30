@@ -24,6 +24,7 @@ doing dsa practice
 | [0001-two-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ doing dsa practice
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ doing dsa practice
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
