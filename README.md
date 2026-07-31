@@ -8,6 +8,7 @@ doing dsa practice
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0027-remove-element/) | Easy |
@@ -77,6 +78,7 @@ doing dsa practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -97,4 +99,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
