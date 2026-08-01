@@ -29,6 +29,7 @@ doing dsa practice
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ doing dsa practice
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
