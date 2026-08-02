@@ -15,6 +15,7 @@ doing dsa practice
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -34,6 +35,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -70,9 +72,11 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -114,4 +118,8 @@ doing dsa practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
