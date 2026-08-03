@@ -22,6 +22,7 @@ doing dsa practice
 | [0238-product-of-array-except-self](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ doing dsa practice
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ doing dsa practice
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
