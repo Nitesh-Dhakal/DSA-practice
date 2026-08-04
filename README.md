@@ -24,6 +24,7 @@ doing dsa practice
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ doing dsa practice
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
+| [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ doing dsa practice
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
