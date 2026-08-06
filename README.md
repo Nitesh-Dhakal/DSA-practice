@@ -61,6 +61,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
+| [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -164,4 +165,12 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
