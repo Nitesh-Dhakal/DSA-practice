@@ -60,6 +60,7 @@ doing dsa practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
