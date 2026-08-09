@@ -31,6 +31,7 @@ doing dsa practice
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -154,6 +155,7 @@ doing dsa practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
