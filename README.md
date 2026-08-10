@@ -35,6 +35,7 @@ doing dsa practice
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -62,6 +63,7 @@ doing dsa practice
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -102,6 +104,7 @@ doing dsa practice
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ doing dsa practice
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +225,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
