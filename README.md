@@ -47,6 +47,7 @@ doing dsa practice
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -98,6 +99,7 @@ doing dsa practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ doing dsa practice
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -158,6 +161,7 @@ doing dsa practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
