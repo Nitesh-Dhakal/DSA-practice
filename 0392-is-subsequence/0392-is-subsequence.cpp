@@ -5,7 +5,7 @@ public:
         int j = 0;
         if (t.size() < s.size())
             return false;
-        while (j < t.size()) {
+        while (i<s.size()&& j < t.size()) {
             if (s[i] == t[j]) {
                 i++;
                 j++;
