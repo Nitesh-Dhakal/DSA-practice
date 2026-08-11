@@ -8,13 +8,15 @@ public:
             if(s[i]==t[j]){
                 i++;
                 j++;
+            if(i == s.size()) {
+            break; 
+            }
             }
             else{
                 j++;
             }
           
         } 
-        cout<<i;
          if(i==s.size()){
                 return true;
         }
