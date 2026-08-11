@@ -39,6 +39,7 @@ doing dsa practice
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ doing dsa practice
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ doing dsa practice
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
