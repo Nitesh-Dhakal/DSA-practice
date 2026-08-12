@@ -114,6 +114,7 @@ doing dsa practice
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -248,4 +249,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
