@@ -253,6 +253,7 @@ doing dsa practice
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -269,6 +270,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
