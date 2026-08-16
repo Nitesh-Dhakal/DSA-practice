@@ -36,6 +36,7 @@ doing dsa practice
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -271,8 +272,13 @@ doing dsa practice
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
