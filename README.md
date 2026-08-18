@@ -176,6 +176,7 @@ doing dsa practice
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -268,6 +269,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
@@ -286,6 +288,7 @@ doing dsa practice
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
