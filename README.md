@@ -46,6 +46,7 @@ doing dsa practice
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -179,6 +180,7 @@ doing dsa practice
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +314,5 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
