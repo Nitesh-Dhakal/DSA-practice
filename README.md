@@ -174,6 +174,7 @@ doing dsa practice
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ doing dsa practice
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +299,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
