@@ -44,6 +44,7 @@ doing dsa practice
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -175,6 +176,7 @@ doing dsa practice
 | [0239-sliding-window-maximum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ doing dsa practice
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,4 +306,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
