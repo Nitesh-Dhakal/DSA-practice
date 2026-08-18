@@ -1,10 +1,9 @@
 class Solution {
 public:
     int countStudents(vector<int>& students, vector<int>& sandwiches) {
-
         deque<int>dq;
         for (int i = 0; i < students.size(); i++) {
-            dq.push_front(students[i]);
+            dq.push_back(students[i]);
         }
         int counter=0;
         int sandwichIndex = 0;
