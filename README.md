@@ -23,6 +23,7 @@ doing dsa practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -57,6 +58,7 @@ doing dsa practice
 | [0001-two-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
@@ -74,6 +76,7 @@ doing dsa practice
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -138,6 +141,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -185,6 +189,7 @@ doing dsa practice
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
@@ -318,4 +323,8 @@ doing dsa practice
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
