@@ -15,6 +15,7 @@ doing dsa practice
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -348,5 +349,6 @@ doing dsa practice
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
