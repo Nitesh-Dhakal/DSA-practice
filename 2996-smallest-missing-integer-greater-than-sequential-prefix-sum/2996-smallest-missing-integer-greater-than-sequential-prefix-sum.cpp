@@ -6,7 +6,7 @@ public:
             if(nums[i]==nums[i-1]+1){
                 sum=sum+nums[i];
             }
-            else {break;}
+            else break;
         }
         unordered_set<int> st(nums.begin(), nums.end());
         while (st.count(sum)) {
