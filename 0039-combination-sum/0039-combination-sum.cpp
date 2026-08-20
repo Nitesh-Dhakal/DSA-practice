@@ -1,6 +1,5 @@
 class Solution {
 public:
-    unordered_set<int>s;
     void backtrack(vector<int>& candidates,int i, int target,vector<int>& arr,vector<vector<int>>& res){
         if(i==candidates.size()|| target<0){
             return;
