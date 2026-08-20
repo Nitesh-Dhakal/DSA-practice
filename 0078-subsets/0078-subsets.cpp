@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void sub(vector<int>& nums,vector<int>ans,int i,vector<vector<int>>& res){
+    void sub(vector<int>& nums,vector<int>& ans,int i,vector<vector<int>>& res){
         if(i==nums.size()){
             res.push_back({ans});
             return;
