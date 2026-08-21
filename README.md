@@ -19,6 +19,7 @@ doing dsa practice
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
@@ -352,5 +353,10 @@ doing dsa practice
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
