@@ -12,13 +12,11 @@ public:
             temp=temp/10;
         }
         res=sum+product;
-        cout<<res;
         if(n%res==0){
             return true;
         }
         else{
               return false;
         }
-      
     }
 };
