@@ -108,6 +108,7 @@ doing dsa practice
 | [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
