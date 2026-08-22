@@ -12,11 +12,6 @@ public:
             temp=temp/10;
         }
         res=sum+product;
-        if(n%res==0){
-            return true;
-        }
-        else{
-              return false;
-        }
+       return n%res==0;
     }
 };
