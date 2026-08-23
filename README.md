@@ -24,6 +24,7 @@ doing dsa practice
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -117,6 +118,7 @@ doing dsa practice
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
+| [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ doing dsa practice
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
@@ -363,6 +366,7 @@ doing dsa practice
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +376,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
