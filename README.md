@@ -15,6 +15,7 @@ doing dsa practice
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
@@ -64,6 +65,7 @@ doing dsa practice
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -113,6 +115,7 @@ doing dsa practice
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@ doing dsa practice
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
@@ -362,5 +366,10 @@ doing dsa practice
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
