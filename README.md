@@ -281,6 +281,7 @@ doing dsa practice
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -380,4 +381,13 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
