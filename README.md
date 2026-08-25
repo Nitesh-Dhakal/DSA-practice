@@ -49,6 +49,7 @@ doing dsa practice
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -256,6 +257,7 @@ doing dsa practice
 | [0209-minimum-size-subarray-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
