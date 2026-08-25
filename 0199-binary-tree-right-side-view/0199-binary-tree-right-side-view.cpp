@@ -20,7 +20,7 @@ public:
                 };
                 if (current->right != NULL) {
                     q.push(current->right);
-                };
+                }
             }
         }
     }
