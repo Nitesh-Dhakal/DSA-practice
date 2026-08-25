@@ -1,10 +1,15 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int>set(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());
         int current=k;
-        while(set.count(current)){
-            current=current+k;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==current){
+                current=current+k;
+            }
+            if(nums[i]>current){
+                break;
+            }
         }
         return current;
     }
