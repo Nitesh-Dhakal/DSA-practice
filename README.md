@@ -399,6 +399,7 @@ doing dsa practice
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@ doing dsa practice
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -428,6 +430,7 @@ doing dsa practice
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
@@ -446,8 +449,10 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
