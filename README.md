@@ -287,6 +287,7 @@ doing dsa practice
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -391,6 +392,7 @@ doing dsa practice
 | ------- | ------- |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -402,6 +404,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -416,6 +419,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
