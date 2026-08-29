@@ -204,6 +204,7 @@ doing dsa practice
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -298,6 +299,7 @@ doing dsa practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@ doing dsa practice
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
@@ -406,6 +409,7 @@ doing dsa practice
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -423,6 +427,7 @@ doing dsa practice
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -441,6 +446,7 @@ doing dsa practice
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
