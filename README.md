@@ -168,6 +168,7 @@ doing dsa practice
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -177,6 +178,7 @@ doing dsa practice
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -325,6 +327,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -471,4 +474,12 @@ doing dsa practice
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
