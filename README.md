@@ -317,6 +317,7 @@ doing dsa practice
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
+| [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -398,6 +399,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -432,6 +434,7 @@ doing dsa practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -508,5 +511,6 @@ doing dsa practice
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
