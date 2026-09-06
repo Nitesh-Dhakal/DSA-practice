@@ -23,6 +23,7 @@ doing dsa practice
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -121,6 +122,7 @@ doing dsa practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
