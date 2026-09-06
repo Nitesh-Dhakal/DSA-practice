@@ -319,6 +319,7 @@ doing dsa practice
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -402,6 +403,7 @@ doing dsa practice
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -438,6 +440,7 @@ doing dsa practice
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -516,5 +519,14 @@ doing dsa practice
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
