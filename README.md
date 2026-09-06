@@ -322,6 +322,7 @@ doing dsa practice
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -445,6 +446,7 @@ doing dsa practice
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -526,6 +528,7 @@ doing dsa practice
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -540,8 +543,17 @@ doing dsa practice
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
