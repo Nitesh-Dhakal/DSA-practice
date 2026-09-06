@@ -314,6 +314,7 @@ doing dsa practice
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
@@ -432,6 +433,7 @@ doing dsa practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -517,6 +519,7 @@ doing dsa practice
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -529,4 +532,12 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
