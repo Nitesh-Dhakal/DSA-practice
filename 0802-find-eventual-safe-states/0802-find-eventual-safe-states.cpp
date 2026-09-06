@@ -5,14 +5,17 @@ public:
         visited[u]=true;
         pathvisited[u]=true;
         for(int neigh:graph[u]){
+            if (safe[neigh]) {
+                continue;
+            }
             if(visited[neigh]==false){
                 if(dfs(neigh,graph,visited,pathvisited,safe)==true)return true;
             }
             else if(pathvisited[neigh]==true)return true;
         }
         result.push_back(u);
-        safe[u]=true;
         pathvisited[u]=false;
+        safe[u]=true;
         return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
