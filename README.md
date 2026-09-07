@@ -38,6 +38,7 @@ doing dsa practice
 | [0169-majority-element](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -136,6 +137,7 @@ doing dsa practice
 | [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ doing dsa practice
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
@@ -406,6 +409,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -437,6 +441,7 @@ doing dsa practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
