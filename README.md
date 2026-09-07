@@ -58,6 +58,7 @@ doing dsa practice
 | [0875-koko-eating-bananas](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -138,6 +139,7 @@ doing dsa practice
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +330,7 @@ doing dsa practice
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0994-rotting-oranges](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
