@@ -51,6 +51,7 @@ doing dsa practice
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -139,6 +140,7 @@ doing dsa practice
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -328,6 +330,7 @@ doing dsa practice
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -415,6 +418,7 @@ doing dsa practice
 | [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
@@ -455,6 +459,7 @@ doing dsa practice
 | [0543-diameter-of-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
