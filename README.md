@@ -57,6 +57,7 @@ doing dsa practice
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -184,6 +185,7 @@ doing dsa practice
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
