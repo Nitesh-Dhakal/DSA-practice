@@ -49,6 +49,7 @@ doing dsa practice
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
@@ -115,6 +116,7 @@ doing dsa practice
 | [0295-find-median-from-data-stream](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -170,6 +172,7 @@ doing dsa practice
 | [0295-find-median-from-data-stream](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
@@ -180,6 +183,7 @@ doing dsa practice
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -279,6 +283,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
