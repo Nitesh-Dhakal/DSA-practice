@@ -67,6 +67,7 @@ doing dsa practice
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -123,6 +124,7 @@ doing dsa practice
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -190,6 +192,7 @@ doing dsa practice
 | [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
