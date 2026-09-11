@@ -22,6 +22,7 @@ doing dsa practice
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
@@ -153,6 +154,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
@@ -186,6 +188,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
