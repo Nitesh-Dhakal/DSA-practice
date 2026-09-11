@@ -17,6 +17,7 @@ doing dsa practice
 | [0035-search-insert-position](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
@@ -153,6 +154,7 @@ doing dsa practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
@@ -188,6 +190,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
