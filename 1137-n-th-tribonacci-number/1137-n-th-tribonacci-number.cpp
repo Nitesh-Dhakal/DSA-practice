@@ -6,7 +6,7 @@ public:
         if(memo[n] != -1)return memo[n];
         int result=helper(n-1,memo)+helper(n-2,memo)+helper(n-3,memo);
         memo[n]=result;
-        return memo[n];
+        return result;
     }
     int tribonacci(int n) {
         vector<int>memo(n+1,-1);
