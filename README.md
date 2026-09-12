@@ -142,6 +142,7 @@ doing dsa practice
 | [0202-happy-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -167,6 +168,7 @@ doing dsa practice
 | [0392-is-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ doing dsa practice
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
