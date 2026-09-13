@@ -25,6 +25,7 @@ doing dsa practice
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
@@ -152,6 +153,7 @@ doing dsa practice
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
@@ -163,6 +165,7 @@ doing dsa practice
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
