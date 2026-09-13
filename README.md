@@ -137,6 +137,7 @@ doing dsa practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0202-happy-number/) | Easy |
@@ -161,6 +162,7 @@ doing dsa practice
 | [0045-jump-game-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
@@ -599,4 +601,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
