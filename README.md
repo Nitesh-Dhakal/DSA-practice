@@ -54,6 +54,7 @@ doing dsa practice
 | [0303-range-sum-query-immutable](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
@@ -176,6 +177,7 @@ doing dsa practice
 | [0213-house-robber-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -377,6 +379,7 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,4 +616,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0062-unique-paths/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
