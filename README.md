@@ -59,6 +59,7 @@ doing dsa practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
@@ -180,6 +181,7 @@ doing dsa practice
 | [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -380,10 +382,12 @@ doing dsa practice
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
