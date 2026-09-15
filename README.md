@@ -147,6 +147,7 @@ doing dsa practice
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0231-power-of-two/) | Easy |
+| [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -176,6 +177,7 @@ doing dsa practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -368,6 +370,7 @@ doing dsa practice
 | [0207-course-schedule](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
@@ -380,12 +383,14 @@ doing dsa practice
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Timsort
