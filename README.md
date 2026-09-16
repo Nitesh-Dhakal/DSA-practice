@@ -35,6 +35,7 @@ doing dsa practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -177,6 +178,7 @@ doing dsa practice
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
@@ -218,6 +220,7 @@ doing dsa practice
 | [0011-container-with-most-water](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
