@@ -66,6 +66,7 @@ doing dsa practice
 | [0695-max-area-of-island](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
@@ -190,6 +191,7 @@ doing dsa practice
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Two Pointers
@@ -226,6 +228,7 @@ doing dsa practice
 | [0435-non-overlapping-intervals](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1710-maximum-units-on-a-truck/) | Easy |
