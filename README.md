@@ -175,6 +175,7 @@ doing dsa practice
 | [0063-unique-paths-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
@@ -264,6 +265,7 @@ doing dsa practice
 | [0020-valid-parentheses](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
