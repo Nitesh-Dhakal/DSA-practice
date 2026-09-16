@@ -187,6 +187,7 @@ doing dsa practice
 | [0509-fibonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0518-coin-change-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@ doing dsa practice
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0771-jewels-and-stones/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,4 +633,8 @@ doing dsa practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
