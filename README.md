@@ -184,6 +184,7 @@ doing dsa practice
 | [0072-edit-distance](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0279-perfect-squares/) | Medium |
@@ -282,6 +283,7 @@ doing dsa practice
 | [0072-edit-distance](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0205-isomorphic-strings/) | Easy |
@@ -504,6 +506,7 @@ doing dsa practice
 | [0051-n-queens](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Nitesh-Dhakal/DSA-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
